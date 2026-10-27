@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 188 48" width="188" height="48" role="img" aria-label="Lulua Tech">
+  <title>Lulua Tech</title>
+  <g>
+      <path d="M4 30a18 18 0 0 0 36 0z" fill="#7dd3fc" opacity=".55"/>
+      <circle cx="22" cy="20" r="10" fill="#7dd3fc"/>
+      <circle cx="18.5" cy="16.5" r="3" fill="#fff" opacity=".7"/>
+  </g>
+  <text x="52" y="33" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="23" font-weight="700" letter-spacing="-0.3" fill="#ffffff">Lulua Tech</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135 48" width="135" height="48" role="img" aria-label="Dhowly">
+  <title>Dhowly</title>
+  <g>
+      <path d="M24 6 8 34h16z" fill="#7dd3fc"/>
+      <path d="M27 12 38 34H27z" fill="#7dd3fc" opacity=".6"/>
+      <path d="M4 38h38l-6 7H10z" fill="#7dd3fc"/>
+  </g>
+  <text x="52" y="33" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="23" font-weight="700" letter-spacing="-0.3" fill="#ffffff">Dhowly</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 201 48" width="201" height="48" role="img" aria-label="Wahaj Cloud">
+  <title>Wahaj Cloud</title>
+  <g>
+      <circle cx="22" cy="30" r="9" fill="#fda4af"/>
+      <path d="M22 8v6M8 16l4 4M36 16l-4 4M4 30h6M34 30h6" stroke="#fda4af" stroke-width="3.5" stroke-linecap="round"/>
+      <path d="M4 42h36" stroke="#fda4af" stroke-width="3.5" stroke-linecap="round" opacity=".55"/>
+  </g>
+  <text x="52" y="33" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="23" font-weight="700" letter-spacing="-0.3" fill="#ffffff">Wahaj Cloud</text>
+</svg>
